@@ -1,0 +1,19 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "del *.js",
+    "build": "webpack",
+    "watch": "tsc && webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.2"
+  }
+}

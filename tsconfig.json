@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es2015",
+        "sourceMap": true
+
+    },
+
+    "files": [
+          "app.ts",
+    "typings/tsd.d.ts"
+    ]
+}
